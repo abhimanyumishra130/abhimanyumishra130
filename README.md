@@ -22,7 +22,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/abhimanyu-mishra-0545431a1" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="abhimanyu-mishra-0545431a1" height="30" width="40" /></a>
 <a href="https://medium.com/@abhimanyumishra130" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@abhimanyumishra130" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/abhimanyumishra1" target="blank"><img align="center" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="abhimanyumishra1" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/abhimanyumishra1" target="blank"><img align="center" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="abhimanyumishra1" height="30" width="130" /></a>
 
 
 <h3 align="left">Languages and Tools:</h3>
