@@ -20,7 +20,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/abhimanyu-mishra-0545431a1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/linked-in-alt.svg" alt="abhimanyu-mishra-0545431a1" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/abhimanyu-mishra-0545431a1" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="abhimanyu-mishra-0545431a1" height="30" width="40" /></a>
 <a href="https://medium.com/@abhimanyumishra130" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@abhimanyumishra130" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/abhimanyumishra1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/hackerrank.svg" alt="abhimanyumishra1" height="30" width="40" /></a>
 
